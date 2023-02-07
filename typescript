@@ -1,0 +1,143 @@
+Script started on 2020-03-25 10:22:34+0500
+{
+  "name": "electron-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "electron:build": "vue-cli-service electron:build",
+    "electron:serve": "vue-cli-service electron:serve",
+    "postinstall": "electron-builder install-app-deps",
+    "postuninstall": "electron-builder install-app-deps"
+  },
+  "main": "background.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "core-js": "^3.4.4",
+    "electron": "^6.1.7",
+    "jquery": "^3.4.1",
+    "nedb": "^1.8.0",
+    "popper.js": "^1.16.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-eslint": "^4.1.0",
+    "@vue/cli-plugin-router": "^4.1.0",
+    "@vue/cli-plugin-vuex": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-cli-plugin-electron-builder": "^1.4.4",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
+]0;atif@atif-laptop: /var/www/html/network-app[01;32matif@atif-laptop[00m:[01;34m/var/www/html/network-app[00m$ {
+>   "name": "electron-vue",
+>   "version": "0.1.0",
+>   "private": true,
+>   "scripts": {
+>     "serve": "vue-cli-service serve",
+>     "build": "vue-cli-service build",
+>     "lint": "vue-cli-service lint",
+>     "electron:build": "vue-cli-service electron:build",
+>     "electron:serve": "vue-cli-service electron:serve",
+>     "postinstall": "electron-builder install-app-deps",
+>     "postuninstall": "electron-builder install-app-deps"
+>   },
+>   "main": "background.js",
+>   "dependencies": {
+>     "bootstrap": "^4.4.1",
+>     "core-js": "^3.4.4",
+>     "electron": "^6.1.7",
+>     "jquery": "^3.4.1",
+>     "nedb": "^1.8.0",
+>     "popper.js": "^1.16.0",
+>     "vue": "^2.6.10",
+>     "vue-router": "^3.1.3",
+>     "vuex": "^3.1.2"
+>   },
+>   "devDependencies": {
+>     "@vue/cli-plugin-babel": "^4.1.0",
+>     "@vue/cli-plugin-eslint": "^4.1.0",
+>     "@vue/cli-plugin-router": "^4.1.0",
+>     "@vue/cli-plugin-vuex": "^4.1.0",
+>     "@vue/cli-service": "^4.1.0",
+>     "babel-eslint": "^10.0.3",
+>     "eslint": "^5.16.0",
+>     "eslint-plugin-vue": "^5.0.0",
+>     "vue-cli-plugin-electron-builder": "^1.4.4",
+>     "vue-template-compiler": "^2.6.10"
+>   }
+
+Command 'name:' not found, did you mean:
+
+  command 'named' from deb bind9
+  command 'namei' from deb util-linux
+
+Try: sudo apt install <deb name>
+
+version:: command not found
+private:: command not found
+scripts:: command not found
+
+Command 'serve:' not found, did you mean:
+
+  command 'serveo' from snap serveo (0.0.10)
+  command 'serve' from snap serve (0.3.0)
+  command 'server' from deb rsplib-legacy-wrappers
+
+See 'snap info <snapname>' for additional versions.
+
+
+Command 'build:' not found, did you mean:
+
+  command 'buildd' from deb buildd
+
+Try: sudo apt install <deb name>
+
+lint:: command not found
+electron:build:: command not found
+electron:serve:: command not found
+postinstall:: command not found
+postuninstall:: command not found
+},: command not found
+main:: command not found
+dependencies:: command not found
+bootstrap:: command not found
+core-js:: command not found
+electron:: command not found
+jquery:: command not found
+nedb:: command not found
+popper.js:: command not found
+
+Command 'vue:' not found, did you mean:
+
+  command 'vue' from snap vue (3.3.0)
+
+See 'snap info <snapname>' for additional versions.
+
+vue-router:: command not found
+vuex:: command not found
+},: command not found
+devDependencies:: command not found
+bash: @vue/cli-plugin-babel:: No such file or directory
+bash: @vue/cli-plugin-eslint:: No such file or directory
+bash: @vue/cli-plugin-router:: No such file or directory
+bash: @vue/cli-plugin-vuex:: No such file or directory
+bash: @vue/cli-service:: No such file or directory
+babel-eslint:: command not found
+eslint:: command not found
+eslint-plugin-vue:: command not found
+vue-cli-plugin-electron-builder:: command not found
+vue-template-compiler:: command not found
+]0;atif@atif-laptop: /var/www/html/network-app[01;32matif@atif-laptop[00m:[01;34m/var/www/html/network-app[00m$ }
+bash: syntax error near unexpected token `}'
+]0;atif@atif-laptop: /var/www/html/network-app[01;32matif@atif-laptop[00m:[01;34m/var/www/html/network-app[00m$ exit
+
+Script done on 2020-03-25 10:22:45+0500
